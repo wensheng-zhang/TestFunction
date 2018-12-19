@@ -21,8 +21,7 @@ int _tmain(int argc, _TCHAR* argv[])
     if (strlen(szTimeDay) == 0)
     {
         int i = 0;
-    }
-    
+    }    
     return 0;
 }
 
